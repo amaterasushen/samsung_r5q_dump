@@ -1,0 +1,7 @@
+<permissions>
+    <privapp-permissions package="com.samsung.android.knox.attestation">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="com.samsung.android.knox.permission.KPM_OPERATION_REQUEST_INFORM_ACTION_INTERNAL"/>
+        <permission name="com.samsung.android.security.permission.SAMSUNG_KEYSTORE_PERMISSION"/>
+    </privapp-permissions>
+</permissions>
