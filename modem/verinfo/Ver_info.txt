@@ -1,0 +1,32 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.0.1-00189-SM8150-1", 
+        "aop": "AOP.HO.1.1-00231-SM8150AAAAANAZO-1", 
+        "aop_sdx55": "AOP.HO.2.0.2-00073-SDX55AAAAANAZO-1", 
+        "apps": "LA.UM.8.1.r1-10300-sm8150.0-1", 
+        "apps_sdx55": "TN.HF.1.1-00134-SDX55ACTMAAAZA-1", 
+        "boot": "BOOT.XF.3.0-00486-SM8150LZB-1", 
+        "boot_sdx55": "BOOT.SBL.4.1-00069-SDX55MAAAAANAZB-2", 
+        "btfm": "BTFM.CHE.2.1.5-00187-QCACHROMZ-1", 
+        "cdsp": "CDSP.HT.2.0.1-00155-SM8150-1", 
+        "common": "SM8150_SDX55.LA_TN.2-0_1-0.c1-00063-FBOOT.REFS.PROD-1", 
+        "glue": "GLUE.SM8150_LA_SDX55_TN.2-0_1-0-00081-NOOP_TEST-1", 
+        "modem": "MPSS.HE.1.0.r1.1-00035-SM8150_GENNM_PACK-1", 
+        "modem_sdx55": "MPSS.HI.1.0.c4-00147-SDX55_RMTEFS_PACK-1", 
+        "npu": "NPU.FW.1.0-00046-SM8150-1", 
+        "slpi": "SLPI.HY.2.2-00105-SM8150AZL-1.264250.3.283634.1", 
+        "slpi_spu": "SLPI.HY.2.2-00044-SM8150AZL-3", 
+        "spss": "SPSS.A1.1.2-00091-SM8150AAAAANAZS-1", 
+        "tz": "TZ.XF.5.2-00140-SM8150AAAAANAZT-1.249568.4.334276.1", 
+        "tz_sdx55": "TZ.FU.5.9-00010-SDX55AAAAANAZT-1", 
+        "video": "VIDEO.IR.1.2-00024-PROD-1", 
+        "wdsp": "WDSP.9340.2.0-00039-W9340AAAAAAAZQ-1", 
+        "wlan": "WLAN.HL.3.2.0-00337-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8150_SDX55.LA_TN.2-0_1-0.c1-00063-FBOOT.REFS.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-01-21 18:38:04"
+    }, 
+    "Version": "1.0"
+}
